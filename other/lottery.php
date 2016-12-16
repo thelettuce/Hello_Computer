@@ -1,5 +1,7 @@
+Coolio
 <?php
-// some extra comment here
-echo "I WON THE LONIONS-TTERY";
-// I've added this using the onions branch
+echo "And this";
+echo "I WON MASTER THE LOTTERY"; // possible this too from master
+echo "I've aded this using MASTER";
+// alright
 ?>
