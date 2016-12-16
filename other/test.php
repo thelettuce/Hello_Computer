@@ -1,4 +1,7 @@
 <?php
+echo "hello";
+// james master update here
+?>
 if (1==1) { echo "WORD"; }
 if (2==1) { echo "WORD OUT"; }
 
