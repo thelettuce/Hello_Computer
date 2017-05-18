@@ -6,7 +6,7 @@ echo "LATEST CHANGE - DONE BY JR2 HERE";
 echo "PUT HERE BY JR3";
 echo "JR2 FIX";
 echo "TESTINGAGAIN";
-echo "FIXED";
+echo "FIXED ADD BY WEBSITE";
 echo "I UPDATED THIS USING JR3";
 // another update here by James
 ?>
